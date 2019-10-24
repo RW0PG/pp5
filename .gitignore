@@ -1,3 +1,4 @@
 creditcard-app/target
 .idea
 *.iml
+.gitignore
